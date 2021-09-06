@@ -1,0 +1,114 @@
+{
+    "main": {
+        "name": "Baizid MD Ashadzzaman",
+        "occupation": "Developer / Programmer / Engineer",
+        "description": "Eat, sleep, code, repeat.",
+        "image": "c2d3709048b66a71f0ecd99b0323a265.gif",
+        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+        "email": "baizid.md.ashadzzaman@gmail.com",
+        "phone": "+88 01862420119",
+        "address": {
+            "street": "Pahartoli 12 quater",
+            "city": "Chittagong",
+            "state": "Bangladesh",
+            "zip": "4202"
+        },
+        "website": "http://baizidmdashadzzaman.com/",
+        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "social": [{
+                "name": "youtube",
+                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
+                "className": "fa fa-youtube"
+            },
+            {
+                "name": "facebook",
+                "url": "https://www.facebook.com/asadzaman0167",
+                "className": "fa fa-facebook"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/in/zamanasad/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "https://www.instagram.com/iamasadzaman/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/Baizidmdashadzzaman",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "My Programming Language Proficiency",
+        "education": [{
+            "school": "International Islamic University Chittagong.",
+            "degree": "Bachelor's Degree, Computer Science",
+            "graduated": "July 2018",
+            "description": "Graduated with First Class Honours"
+        }],
+        "work": [{
+            "company": "Scandicsoft",
+            "title": "Software engineer",
+            "years": "Jan 2018 - Present",
+            "description": "Developing some userfriendly and best software."
+        }],
+        "skills": [{
+                "name": "Php",
+                "level": "90%"
+            },
+            {
+                "name": "Python",
+                "level": "60%"
+            },
+            {
+                "name": "Vue",
+                "level": "70%"
+            },
+            {
+                "name": "React",
+                "level": "50%"
+            },
+            {
+                "name": "Web Development",
+                "level": "95%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [{
+                "title": "RMS with AR",
+                "category": "",
+                "image": "Full-Stack-Developer-1.webp",
+                "url": "https://www.youtube.com/watch?v=0feY896TmH4"
+            },
+            {
+                "title": "Prothom alo clone",
+                "category": "",
+                "image": "5.gif",
+                "url": "https://www.youtube.com/watch?v=7pRx_hiXxwg&t=30s"
+            },
+            {
+                "title": "Chaldal Clone",
+                "category": "",
+                "image": "web-development-services.gif",
+                "url": "https://www.youtube.com/watch?v=PDvlbujWmIs&t=3s"
+            }
+        ]
+    },
+    "testimonials": {
+        "testimonials": [{
+                "text": "Languages:PHP (OOP) , Javascript, C/C++, HTML, CSS .Database: MYSQL & SQL .Libraries:Tensorflow, Sci-kit learn, Numpy, OpenCV, Matplotlib .IDE/Editors:Spyder, Visual Studio Code, Eclipse, Codeblocks NetBeans , PHPStrom & Sublime Text,Unity .Other:MS Office,MS Powerpoint,MS Excel ,Adobe Illustrator, Adobe Photoshop .Frameworks:Laravel , Bootstrap & AJAX , Vue js .Paradigms:Object-oriented Programming, Agile Software Development .Tools:GitLab & GitHub .Platforms:Software Engineer ,Graphics Designer .",
+                "user": "Technical Skills"
+            },
+            {
+                "text": "Linkedin : https://www.linkedin.com/in/zamanasad/ Gmail : baizid.md.ashadzzaman@gmail.com Youtube : youtube/ashad0167 Facebook : https://www.facebook.com/asadzaman0167 Twitter : https://twitter.com/AshadBaizid Behance : https://www.behance.net/asadzaman0167 Gitlab : https://www.behance.net/asadzaman0167/ Github : https://github.com/shad0167 Stackoverflow : https://stackoverflow.com/users/7407903/asadzaman",
+                "user": "Links"
+            }
+        ]
+    }
+}
